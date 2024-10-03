@@ -1,3 +1,5 @@
 * [首页](/)
-* [你好](/docs/note.md)
-  * [看看哦](/docs/OpenCV.md)
+* [高数2A](/docs/高数2A.md)
+* [高数2B](/docs/高数2B.md)
+* [线代](/docs/线代.md)
+* [概率论](/docs/概率论.md)
