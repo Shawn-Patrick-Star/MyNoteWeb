@@ -1,7 +1,7 @@
-# **萱 の Blog**
+# **Shawn の Blog**
 
-### **个人简介**
-> 天津大学本科生 | 24号曼波篮球爱好者
+### **Profile**
+> Tianjin University | Computer Science And Technology | Senior
 
 - ⚡ 幸得识卿桃花面 从此阡陌多暖春
 
@@ -9,8 +9,10 @@
 
 - 🧭 我愿意像茶 把苦涩留在心里 散发出来的都是清香
 
-> 整理了课程笔记，仅供参考
+> some of my notes and articles about programming, computer science, math, physics and others.
 
-有任何问题可以联系我 3526844792@qq.com
+Email: 3526844792@qq.com
+
+docsify-docs: https://jingping-ye.github.io/docsify-docs-zh/#/
 
 ![](/_media/首页插画.svg)
